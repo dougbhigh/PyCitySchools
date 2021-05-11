@@ -1,5 +1,7 @@
 # PyCitySchools
 
+Read in standardized math and reading test scores for students within PyCity school district.  Create various tablelized summary data and analyze.
+
 - Merge files.
 - - schools - includes type, budget, and student count for district.
 - - Students - includes standardized math and reading test scores for each student.
@@ -14,5 +16,3 @@
 - - Spending - schools split into four per student budget ranges: test assesment breakdown.
 - - Size - same as spending summary, but for school sizes of small, medium, and large.
 - - Type - same summary as spending and size, but for school type (Chartere vs. District).
-
-- Analyze summarizations with regard to test performance of students.
