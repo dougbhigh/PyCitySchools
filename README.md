@@ -16,5 +16,7 @@
 - - Spending - schools split into four per student budget ranges: test assesment breakdown.
 - - Size - same as spending summary, but for school sizes of small, medium, and large.
 - - Type - same summary as spending and size, but for school type (Chartere vs. District).
-
+#
 ![avg reading](https://github.com/dougbhigh/PyCitySchools/blob/master/PyCitySchools/Resources/AvgReadScores.png)
+#
+![avg reading](https://github.com/dougbhigh/PyCitySchools/blob/master/PyCitySchools/Resources/Top5Summary.png)
